@@ -12,8 +12,6 @@ Bem, embora o desafio seja pessoal, iremos propor algumas regras a serem seguida
 
 - O desafio poderá ser implementado na linguagem de sua escolha, porém, caso o avaliador não tenha dominio referente a determinada tecnologia, pode ser que ele queira entrar em contato para que haja uma troca de ideias e uma avaliação mais honesta =) ;
 
-- Logo após o fork, faça um commit informando sua estimativa de entrega, pense que em uma entrevista real, o avaliador ira solicitar uma estimativa de entrega do projeto; 
+- Logo após o fork, faça um commit informando sua estimativa de entrega, pense que em uma entrevista real, o avaliador ira solicitar uma estimativa de entrega do projeto, portanto, queremos simular a mesma situação;
 
-exemplo:
-
-    "Primeiro commit: Irei entregar o projeto em uma semana, a partir do dia 01/01/202X
+        "Primeiro commit: Irei entregar o projeto em uma semana, a partir do dia 01/01/202X"
